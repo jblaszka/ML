@@ -1,1 +1,1 @@
-# Prosty program do klasyfikacji obrazów.
+### Prosty program do klasyfikacji obrazów.
